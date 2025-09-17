@@ -525,6 +525,12 @@ body.dark {
     padding: 15px;
     text-align: center;
     color: var(--text-color);
+    font-weight: bold;
+    text-shadow:
+        0.5px 0.5px 0 color: var(--bg-card-color),  /* Sombra derecha */
+        -0.5px 0.5px 0 color: var(--bg-card-color),  /* Sombra izquierda */
+        0.5px -0.5px 0 color: var(--bg-card-color), /* Sombra superior */
+        -0.5px -0.5px 0 color: var(--bg-card-color); /* Sombra inferior */
 }
 
 .footer .group2 small{
