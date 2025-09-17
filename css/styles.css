@@ -211,6 +211,23 @@ body.dark {
     line-height: 1.7;
 }
 
+.red-social2 a{
+    margin-top: 3em;
+    margin-left: 1em;
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: var(--text-color);
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    text-align: center;
+    transition: var(--transition);
+}
+
+
 @media screen and (min-width: 760px){
     .card--project{
         display: grid;
