@@ -524,7 +524,7 @@ body.dark {
     background-color: var(--primary-color);
     padding: 15px;
     text-align: center;
-    color: var(--text-tag-color);
+    color: var(--text-color);
 }
 
 .footer .group2 small{
