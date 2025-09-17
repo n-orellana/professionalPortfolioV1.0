@@ -2,7 +2,7 @@
     "es": {
         "profile": {
             "rol": "Desarrollador Front End",
-            "description": "Soy autodidacta, con una fuerte inclinación por el aprendizaje continuo y la resolución de problemas,utilizo mis habilidades paradesarrollar soluciones innovadoras.<br/>Apasionado de las nuevas tecnologias y en especial del ecosistema de css y JavaScript."
+            "description": "Soy autodidacta, con una fuerte inclinación por el aprendizaje continuo y la resolución de problemas,utilizo mis habilidades paradesarrollar soluciones innovadoras. Apasionado de las nuevas tecnologias y en especial del ecosistema de css y JavaScript."
         },
 
         "skill": {
@@ -59,7 +59,7 @@
     "en": {   
         "profile": {
             "rol": "Developer Front End",
-            "description": "I am self-taught, with a strong inclination toward continuous learning and problem-solving, using my skills to develop innovative solutions. <br/>Passionate about new technologies andespecially the CSS and JavaScript ecosystem."
+            "description": "I am self-taught, with a strong inclination toward continuous learning and problem-solving, using my skills to develop innovative solutions. Passionate about new technologies andespecially the CSS and JavaScript ecosystem."
         },
 
         "skill": {
@@ -91,7 +91,7 @@
             "third-hobbie-title": "Futbol",
             "third-hobbie-description": "Play with friends.",     
             "four-hobbie-title": "Drive",
-            "four-hobbie-description": "enjoy the driving experience."     
+            "four-hobbie-description": "Enjoy the driving experience."     
         },
 
         "projects": {
