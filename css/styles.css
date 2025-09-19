@@ -170,7 +170,7 @@ body.dark {
 
 @media screen and (min-width:720px){
     .column--right{
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(3, 0.5fr);
         grid-template-rows: repeat(3, min-content);
     }
 }
@@ -228,7 +228,7 @@ body.dark {
 }
 
 
-@media screen and (min-width: 760px){
+@media screen and (min-width: 720px){
     .card--project{
         display: grid;
         grid-template-columns: min-content 1fr;
@@ -477,7 +477,7 @@ body.dark {
         width: 90%;
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 10px;
-        padding: 10px 0px;
+        padding: 10px 1px;
     }
 }
 
