@@ -12,7 +12,7 @@
             "third-skill-title": "Multimedia",
             "four-skill-title": "Back End",
             "five-skill-title": "Sistemas Operativos",
-            "six-skill-title": "Ofimatica"
+            "six-skill-title": "Heramientas Ofimaticas"
         },
 
         "experience": {
@@ -34,7 +34,7 @@
             "third-hobbie-title": "Futbol",
             "third-hobbie-description": "Jugar con amigos.",     
             "four-hobbie-title": "Conducir",
-            "four-hobbie-description": "disfrutar de la experiencia de manejar."     
+            "four-hobbie-description": "Disfrutar de la experiencia de manejar."     
         },
 
         "projects": {
@@ -52,7 +52,7 @@
         "footer": {
             "footer-title": "Sobre Mi",
             "footer-title2": "Seguime",
-            "footer-info": "Me considero un profesional autodidacta con una mentalidad curiosa y una gran capacidad para la autoformación, lo que me permite adaptarme rápidamente a nuevas situaciones y entornos laborales.",
+            "footer-info": "Me considero un profesional autodidacta con una mentalidad curiosa y una gran capacidad para la autoformación, lo que me permite adaptarme rápidamente a nuevas situaciones y entornos laborales bajo presion.",
             "footer-rights": "©2025 Nicolas Orellana - Todos los derechos reservados"
         }
     },
@@ -69,7 +69,7 @@
             "third-skill-title": "Multimedia",
             "four-skill-title": "Back End",
             "five-skill-title": "Operating Systems",
-            "six-skill-title": "Office Automation"
+            "six-skill-title": "Office Automation Tools"
         },
 
         "experience": {
@@ -109,7 +109,7 @@
         "footer": {
             "footer-title": "About Me",
             "footer-title2": "Follow Me",
-            "footer-info": "I consider myself a self-taught professional with a curious mindset and a great capacity for self-education, which allows me to quickly adapt to new situations and work environments.",
+            "footer-info": "I consider myself a self-taught professional with a curious mindset and a great capacity for self-education, which allows me to quickly adapt to new situations and work environments under pressure.",
             "footer-rights": "©2025 Nicolas Orellana - All rights reserved"
         }
     }
