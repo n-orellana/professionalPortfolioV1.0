@@ -1,11 +1,18 @@
+Title: Professional Portfolio
 💻 Portafolio Personal - Nicolas Orellana
 ¡Bienvenido a mi portafolio profesional! Este proyecto es una Single Page Application (SPA) estática, diseñada para mostrar mi trayectoria como desarrollador, mis habilidades técnicas y los proyectos más destacados que he realizado.
-
+Description: A personal portfolio website to showcase skills, experience, and projects.
 🚀 Características Principales
 Diseño Responsivo: Adaptado completamente para dispositivos móviles, tablets y escritorio.
-
+Features:
+Dark/Light Mode Toggle
+Multi-language Support (English/Spanish)
+Theme Color Picker (Blue, Green, Purple, Red)
+Responsive Design
+Technologies: HTML5, CSS3, JavaScript (Vanilla), Font Awesome.
 Modo Oscuro/Claro: Selector de tema dinámico para mejorar la experiencia de usuario.
-
+Setup: Instructions to open index.html or deploy to GitHub Pages.
+Author: Nicolas Orellana
 Personalización de Colores: Sistema de cambio de acento de color (Azul, Verde, Púrpura, Rojo) mediante variables CSS.
 
 Soporte Multi-lenguaje: Preparado para soporte bilingüe (Español/Inglés).
